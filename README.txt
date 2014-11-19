@@ -2,7 +2,7 @@
 extractemail
 ===========
 
-This python script reads email messages from text files and writes them into XML records with fielded metadata. 
+This python script reads email messages from text files and writes them into XML records with fielded metadata.  
 
 Usage
 -----
